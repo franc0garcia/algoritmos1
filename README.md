@@ -1,1 +1,1 @@
-# This repository contains solved exercises of the subject guide Algorithms and Programming 1 @ FIUBA
+# This repository contains solved exercises of the subject Algorithms and Programming 1 @ FIUBA
